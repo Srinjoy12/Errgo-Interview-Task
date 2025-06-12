@@ -1,9 +1,10 @@
 # Errgo Code Assessment - Completed
+https://github.com/user-attachments/assets/11350fa1-ed80-410b-b4cc-d52f21d447de
 
 This repository contains the completed solution for the Errgo code assessment. The project consists of a `Frontend` (React/Vite) and a `Backend` (Express/Node.js), which work together to provide a full-stack application experience.
 
 All original `TODO` items have been addressed, and the optional bonus task has been fully implemented.
-https://github.com/user-attachments/assets/11350fa1-ed80-410b-b4cc-d52f21d447de
+
 ---
 
 ## Features Implemented
